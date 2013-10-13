@@ -3,7 +3,7 @@
 //  Core_Data
 //
 //  Created by Akshay Vhatkar on 14/09/13.
-//  Copyright (c) 2013 Mac. All rights reserved.
+//  Copyright (c) 2013 Mac. All rights reservasdasdasded.
 //
 
 #import "CoreData.h"
